@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://nasri:cFcQfvRCmqNah0Qr@cluster0.qhqhi.mongodb.net/nasri-database",
+    "jwtSecret":"Nidhal_secret"
+}
